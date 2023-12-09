@@ -1,2 +1,1 @@
-# Lab11-SC-ANTLR
-Refer to README
+Refer to files for solution  
